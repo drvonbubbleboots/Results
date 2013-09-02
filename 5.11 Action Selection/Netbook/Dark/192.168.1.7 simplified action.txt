@@ -1,0 +1,7 @@
+Current action: SpinRight from state: Search
+Current action: SpinRight from state: Search
+10713
+Current action: SpinRight from state: Search
+5530
+Current action: SpinRight from state: Search
+8744

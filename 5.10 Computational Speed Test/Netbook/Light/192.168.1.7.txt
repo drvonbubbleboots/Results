@@ -1,0 +1,58 @@
+31/07/2013 16:30:32: Action thread has started for: 192.168.1.7
+31/07/2013 16:30:46: System thread has started for: 192.168.1.7
+31/07/2013 16:30:46: Current action: 192.168.1.7: SpinRight from state: Search
+31/07/2013 16:30:48: Action thread time: 192.168.1.7: 11570 mS
+31/07/2013 16:30:58: Current action: 192.168.1.7: SpinRight from state: Search
+31/07/2013 16:30:59: Current action: 192.168.1.7: Recover from state: Recover
+31/07/2013 16:31:05: System thread time: 192.168.1.7: 9374 mS
+31/07/2013 16:31:05: Action thread time: 192.168.1.7: 12397 mS
+31/07/2013 16:31:12: Current action: 192.168.1.7: Recover from state: Recover
+31/07/2013 16:31:12: Current action: 192.168.1.7: SpinRight from state: Search
+31/07/2013 16:31:14: Action thread time: 192.168.1.7: 7944 mS
+31/07/2013 16:31:14: System thread time: 192.168.1.7: 8390 mS
+31/07/2013 16:31:26: Current action: 192.168.1.7: Recover from state: Recover
+31/07/2013 16:31:26: System thread time: 192.168.1.7: 11235 mS
+31/07/2013 16:31:26: Current action: 192.168.1.7: SpinRight from state: Search
+31/07/2013 16:31:33: Action thread time: 192.168.1.7: 14553 mS
+31/07/2013 16:31:40: Current action: 192.168.1.7: SpinRight from state: Search
+31/07/2013 16:31:44: System thread time: 192.168.1.7: 12548 mS
+31/07/2013 16:31:51: Current action: 192.168.1.7: Recover from state: Recover
+31/07/2013 16:31:52: System thread time: 192.168.1.7: 5446 mS
+31/07/2013 16:31:52: System thread time: 192.168.1.7: 5504 mS
+31/07/2013 16:31:52: System thread time: 192.168.1.7: 5524 mS
+31/07/2013 16:31:52: System thread time: 192.168.1.7: 5605 mS
+31/07/2013 16:31:52: System thread time: 192.168.1.7: 5770 mS
+31/07/2013 16:31:53: System thread time: 192.168.1.7: 5894 mS
+31/07/2013 16:31:53: System thread time: 192.168.1.7: 6708 mS
+31/07/2013 16:31:55: System thread time: 192.168.1.7: 6756 mS
+31/07/2013 16:31:55: System thread time: 192.168.1.7: 9055 mS
+31/07/2013 16:31:55: System thread time: 192.168.1.7: 9335 mS
+31/07/2013 16:31:56: System thread time: 192.168.1.7: 9556 mS
+31/07/2013 16:31:56: System thread time: 192.168.1.7: 9606 mS
+31/07/2013 16:31:56: System thread time: 192.168.1.7: 9655 mS
+31/07/2013 16:31:56: System thread time: 192.168.1.7: 9917 mS
+31/07/2013 16:31:56: System thread time: 192.168.1.7: 10037 mS
+31/07/2013 16:31:59: System thread time: 192.168.1.7: 10117 mS
+31/07/2013 16:31:59: System thread time: 192.168.1.7: 12973 mS
+31/07/2013 16:32:05: System thread time: 192.168.1.7: 13260 mS
+31/07/2013 16:32:05: System thread time: 192.168.1.7: 19334 mS
+31/07/2013 16:32:07: Current action: 192.168.1.7: Recover from state: Recover
+31/07/2013 16:32:07: Current action: 192.168.1.7: SpinRight from state: InRight
+31/07/2013 16:32:07: System thread time: 192.168.1.7: 235 mS
+31/07/2013 16:32:07: System thread time: 192.168.1.7: 316 mS
+31/07/2013 16:32:11: System thread time: 192.168.1.7: 2085 mS
+31/07/2013 16:32:11: Action thread time: 192.168.1.7: 4607 mS
+31/07/2013 16:32:11: System thread time: 192.168.1.7: 4746 mS
+31/07/2013 16:32:13: System thread time: 192.168.1.7: 4896 mS
+31/07/2013 16:32:13: System thread time: 192.168.1.7: 6464 mS
+31/07/2013 16:32:15: System thread time: 192.168.1.7: 7202 mS
+31/07/2013 16:32:15: System thread time: 192.168.1.7: 8922 mS
+31/07/2013 16:32:16: System thread time: 192.168.1.7: 9093 mS
+31/07/2013 16:32:16: System thread time: 192.168.1.7: 9244 mS
+31/07/2013 16:32:20: System thread time: 192.168.1.7: 9342 mS
+31/07/2013 16:32:20: System thread time: 192.168.1.7: 13530 mS
+31/07/2013 16:32:20: System thread time: 192.168.1.7: 13656 mS
+31/07/2013 16:32:20: System thread time: 192.168.1.7: 13809 mS
+31/07/2013 16:32:29: System thread time: 192.168.1.7: 13919 mS
+31/07/2013 16:32:29: System thread time: 192.168.1.7: 22318 mS
+31/07/2013 16:32:35: System thread time: 192.168.1.7: 22585 mS

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Conditions>
+	<RobotGroup>
+		<GroupName>Centre</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>InCentre</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>Center</GroupName>
+		<SubgroupName>
+			<ConditionName>Forward</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotGroup>
+		<GroupName>TrackUp</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>MovementPredictedUp</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>TrackUp</GroupName>
+		<SubgroupName>
+			<ConditionName>Up</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+			<Value>8</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotGroup>
+		<GroupName>TrackLeft</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>MovementPredictedLeft</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>TrackLeft</GroupName>
+		<SubgroupName>
+			<ConditionName>Left</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotGroup>
+		<GroupName>TrackRight</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>MovementPredictedRight</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>TrackRight</GroupName>
+		<SubgroupName>
+			<ConditionName>Right</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotGroup>
+		<GroupName>TrackDown</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>MovementPredictedDown</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>TrackDown</GroupName>
+		<SubgroupName>
+			<ConditionName>Down</ConditionName>
+			<ConditionName>Forward</ConditionName>
+			<ConditionName>Forwards</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+			<Value>8</Value>
+			<Value>8</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotGroup>
+		<GroupName>TrackCentre</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>MovementPredictedCentre</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>TrackCentre</GroupName>
+		<SubgroupName>
+			<ConditionName>Forward</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+	
+	<RobotGroup>
+		<GroupName>InLeft</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>FoundInLeft</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>InLeft</GroupName>
+		<SubgroupName>
+			<ConditionName>Left</ConditionName>
+			<ConditionName>SpinLeft</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+			<Value>8</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotGroup>
+		<GroupName>InRight</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>FoundInRight</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>InRight</GroupName>
+		<SubgroupName>
+			<ConditionName>Right</ConditionName>
+			<ConditionName>SpinRight</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+			<Value>8</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotGroup>
+		<GroupName>InBottom</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>FoundInBottom</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>InBottom</GroupName>
+		<SubgroupName>
+			<ConditionName>Forward</ConditionName>
+			<ConditionName>Down</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+			<Value>8</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotGroup>
+		<GroupName>InTop</GroupName>
+		<Subgroup>
+			<ConditionName>TargetsFound</ConditionName>
+			<ConditionName>FoundInTop</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>InTop</GroupName>
+		<SubgroupName>
+			<ConditionName>Backward</ConditionName>
+			<ConditionName>Up</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>10</Value>
+			<Value>8</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotGroup>
+		<GroupName>Search</GroupName>
+		<Subgroup>
+			<ConditionName>targetsNotFound</ConditionName>
+			<ConditionName>notTracking</ConditionName>
+		</Subgroup>
+	</RobotGroup>
+
+	<RobotWeights>
+		<GroupName>Search</GroupName>
+		<SubgroupName>
+			<ConditionName>SpinLeft</ConditionName>
+			<ConditionName>SpinRight</ConditionName>
+		</SubgroupName>
+		<SubgroupRobotWeight>
+			<Value>12</Value>
+			<Value>12</Value>
+		</SubgroupRobotWeight>
+	</RobotWeights>
+
+	<RobotActions>
+		<Name>Forward</Name>
+		<Name>Backward</Name>
+		<Name>Left</Name>
+		<Name>Right</Name>
+		<Name>SpinLeft</Name>
+		<Name>SpinRight</Name>
+		<Name>Down</Name>
+		<Name>TakeOff</Name>
+		<Name>Land</Name>
+		<Name>Stop</Name>
+		<Name>Nullify</Name>
+		<Name>Reset</Name>
+		<Name>Sleep</Name>
+		<Name>Wake</Name>
+		<Name>RobotMovement</Name>
+	</RobotActions>
+		
+	<SystemGroup>
+		<GroupName>Error</GroupName>
+		<Subgroup>
+			<ConditionName>WifiError</ConditionName>
+			<ConditionName>BatteryError</ConditionName>
+		</Subgroup>
+	</SystemGroup>
+
+	<SystemWeights>
+		<GroupName>Error</GroupName>
+		<SubgroupName>
+			<ConditionName>RemoveDevice</ConditionName>
+		</SubgroupName>
+		<SubgroupSystemWeight>
+			<Value>10</Value>
+		</SubgroupSystemWeight>
+	</SystemWeights>
+
+	<SystemGroup>
+		<GroupName>Recover</GroupName>
+		<Subgroup>
+			<ConditionName>WifiOK</ConditionName>
+			<ConditionName>BatteryOK</ConditionName>
+		</Subgroup>
+	</SystemGroup>
+
+	<SystemWeights>
+		<GroupName>Recover</GroupName>
+		<SubgroupName>
+			<ConditionName>Recover</ConditionName>
+		</SubgroupName>
+		<SubgroupSystemWeight>
+			<Value>10</Value>
+		</SubgroupSystemWeight>
+	</SystemWeights>
+
+	<SystemGroup>
+		<GroupName>HighAlt</GroupName>
+		<Subgroup>
+			<ConditionName>HighAlt</ConditionName>
+		</Subgroup>
+	</SystemGroup>
+
+	<SystemWeights>
+		<GroupName>HighAlt</GroupName>
+		<SubgroupName>
+			<ConditionName>Down</ConditionName>
+		</SubgroupName>
+		<SubgroupSystemWeight>
+			<Value>10</Value>
+		</SubgroupSystemWeight>
+	</SystemWeights>
+
+	<SystemGroup>
+		<GroupName>LowAlt</GroupName>
+		<Subgroup>
+			<ConditionName>LowAlt</ConditionName>
+		</Subgroup>
+	</SystemGroup>
+
+	<SystemWeights>
+		<GroupName>LowAlt</GroupName>
+		<SubgroupName>
+			<ConditionName>Up</ConditionName>
+		</SubgroupName>
+		<SubgroupSystemWeight>
+			<Value>10</Value>
+		</SubgroupSystemWeight>
+	</SystemWeights>
+
+	<SystemGroup>
+		<GroupName>Wait</GroupName>
+		<Subgroup>
+			<ConditionName>Wait</ConditionName>
+		</Subgroup>
+	</SystemGroup>
+
+	<SystemWeights>
+		<GroupName>Wait</GroupName>
+		<SubgroupName>
+			<ConditionName>Wait</ConditionName>
+		</SubgroupName>
+		<SubgroupSystemWeight>
+		</SubgroupSystemWeight>
+	</SystemWeights>
+
+	<SystemActions>
+		<Name>RemoveDevice</Name>
+		<Name>Recover</Name>
+		<Name>Up</Name>
+		<Name>Down</Name>
+		<Name>Wait</Name>
+	</SystemActions>
+	
+	<CoordinationGroup>
+		<GroupName>Group1</GroupName>
+		<Subgroup>
+			<ConditionName>Check1</ConditionName>
+			<ConditionName>Check2</ConditionName>
+			<ConditionName>Check3</ConditionName>
+		</Subgroup>
+	</CoordinationGroup>
+	
+	<CoordinationWeights>
+		<GroupName>Group1</GroupName>
+		<SubgroupName>
+			<ConditionName>CoordinationMethod1</ConditionName>
+			<ConditionName>CoordinationMethod7</ConditionName>
+			<ConditionName>CoordinationMethod3</ConditionName>
+		</SubgroupName>
+		<SubgroupCoordinationWeight>
+			<Value>7</Value>
+			<Value>8</Value>
+			<Value>9</Value>
+		</SubgroupCoordinationWeight>
+	</CoordinationWeights>
+	
+	<CoordinationActions>
+		<Name>CoordinationMethod1</Name>
+		<Name>CoordinationMethod2</Name>
+		<Name>CoordinationMethod3</Name>
+		<Name>CoordinationMethod4</Name>
+		<Name>CoordinationMethod5</Name>
+		<Name>CoordinationMethod6</Name>
+		<Name>CoordinationMethod7</Name>
+		<Name>CoordinationMethod8</Name>
+		<Name>CoordinationMethod9</Name>
+	</CoordinationActions>
+</Conditions>

@@ -1,0 +1,42 @@
+31/07/2013 16:31:04: Action thread has started for: 192.168.1.5
+31/07/2013 16:31:12: Current action: 192.168.1.5: Forward from state: Centre
+31/07/2013 16:31:12: Action thread time: 192.168.1.5: 267 mS
+31/07/2013 16:31:16: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:31:17: System thread time: 192.168.1.5: 1633 mS
+31/07/2013 16:31:20: System thread has started for: 192.168.1.5
+31/07/2013 16:31:20: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:31:20: Current action: 192.168.1.5: Forward from state: Centre
+31/07/2013 16:31:21: System thread time: 192.168.1.5: 2438 mS
+31/07/2013 16:31:22: System thread time: 192.168.1.5: 3916 mS
+31/07/2013 16:31:25: Action thread time: 192.168.1.5: 7059 mS
+31/07/2013 16:31:33: Current action: 192.168.1.5: SpinRight from state: InRight
+31/07/2013 16:31:33: System thread time: 192.168.1.5: 10087 mS
+31/07/2013 16:31:34: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:31:35: Action thread time: 192.168.1.5: 6906 mS
+31/07/2013 16:31:44: System thread time: 192.168.1.5: 6115 mS
+31/07/2013 16:31:51: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:31:51: Current action: 192.168.1.5: SpinRight from state: InRight
+31/07/2013 16:31:52: System thread time: 192.168.1.5: 5457 mS
+31/07/2013 16:31:53: Action thread time: 192.168.1.5: 17141 mS
+31/07/2013 16:32:05: Current action: 192.168.1.5: SpinRight from state: InRight
+31/07/2013 16:32:05: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:32:06: System thread time: 192.168.1.5: 13000 mS
+31/07/2013 16:32:11: Action thread time: 192.168.1.5: 17293 mS
+31/07/2013 16:32:13: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:32:13: System thread time: 192.168.1.5: 6093 mS
+31/07/2013 16:32:13: System thread time: 192.168.1.5: 6114 mS
+31/07/2013 16:32:13: System thread time: 192.168.1.5: 6135 mS
+31/07/2013 16:32:13: System thread time: 192.168.1.5: 6156 mS
+31/07/2013 16:32:13: System thread time: 192.168.1.5: 6422 mS
+31/07/2013 16:32:13: System thread time: 192.168.1.5: 6744 mS
+31/07/2013 16:32:15: System thread time: 192.168.1.5: 7010 mS
+31/07/2013 16:32:15: System thread time: 192.168.1.5: 8684 mS
+31/07/2013 16:32:16: System thread time: 192.168.1.5: 8856 mS
+31/07/2013 16:32:16: System thread time: 192.168.1.5: 9007 mS
+31/07/2013 16:32:20: System thread time: 192.168.1.5: 9110 mS
+31/07/2013 16:32:29: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:32:29: System thread time: 192.168.1.5: 7972 mS
+31/07/2013 16:32:29: System thread time: 192.168.1.5: 7993 mS
+31/07/2013 16:32:29: System thread time: 192.168.1.5: 8014 mS
+31/07/2013 16:32:29: System thread time: 192.168.1.5: 8035 mS
+31/07/2013 16:32:35: Action thread time: 192.168.1.5: 21875 mS

@@ -1,0 +1,242 @@
+Action thread has started for: 192.168.1.4
+System thread has started for: 192.168.1.4
+Current action: Recover from state: Recover
+Current action: SpinRight from state: Search
+System thread time: 539
+Current action: Recover from state: Recover
+System thread time: 101
+Current action: SpinRight from state: InRight
+Action thread time: 159
+Current action: Recover from state: Recover
+Current action: SpinRight from state: InRight
+System thread time: 449
+Current action: SpinRight from state: InRight
+Current action: Recover from state: Recover
+Action thread time: 332
+System thread time: 532
+Current action: SpinRight from state: Search
+Action thread time: 175
+Current action: Recover from state: Recover
+System thread time: 98
+Current action: SpinRight from state: Search
+Action thread time: 493
+Current action: Recover from state: Recover
+System thread time: 712
+Current action: SpinRight from state: Search
+Current action: Recover from state: Recover
+Action thread time: 500
+System thread time: 561
+Current action: Forward from state: Centre
+Action thread time: 8
+Current action: Recover from state: Recover
+System thread time: 95
+Current action: Forward from state: Centre
+Current action: Recover from state: Recover
+Action thread time: 392
+System thread time: 299
+Current action: SpinRight from state: Search
+Current action: Recover from state: Recover
+Action thread time: 208
+System thread time: 145
+Current action: Forward from state: Centre
+Current action: Recover from state: Recover
+Action thread time: 264
+System thread time: 251
+Current action: Recover from state: Recover
+System thread time: 446
+Action thread time: 674
+Current action: Recover from state: Recover
+System thread time: 149
+Current action: SpinLeft from state: InLeft
+Action thread time: 530
+Current action: Recover from state: Recover
+System thread time: 116
+Current action: SpinLeft from state: InLeft
+Action thread time: 72
+Current action: Recover from state: Recover
+System thread time: 126
+Current action: Forward from state: Centre
+Action thread time: 44
+Current action: Recover from state: Recover
+System thread time: 247
+Current action: Forward from state: Centre
+Action thread time: 97
+Current action: Recover from state: Recover
+System thread time: 230
+Current action: SpinRight from state: Search
+Action thread time: 200
+Current action: Recover from state: Recover
+System thread time: 125
+Current action: SpinRight from state: Search
+Action thread time: 393
+Current action: Recover from state: Recover
+System thread time: 256
+Current action: SpinRight from state: Search
+Action thread time: 251
+Current action: Recover from state: Recover
+System thread time: 204
+Current action: SpinRight from state: Search
+Action thread time: 234
+Current action: Recover from state: Recover
+System thread time: 265
+Current action: SpinRight from state: Search
+Action thread time: 152
+Current action: Recover from state: Recover
+System thread time: 315
+Current action: SpinLeft from state: InLeft
+Action thread time: 179
+Current action: Recover from state: Recover
+System thread time: 195
+Current action: SpinLeft from state: InLeft
+Action thread time: 310
+Current action: Recover from state: Recover
+System thread time: 358
+Current action: SpinLeft from state: InLeft
+Action thread time: 339
+Current action: Recover from state: Recover
+System thread time: 378
+Current action: SpinLeft from state: InLeft
+Action thread time: 201
+Current action: Recover from state: Recover
+System thread time: 318
+Current action: SpinLeft from state: InLeft
+Action thread time: 317
+Current action: Recover from state: Recover
+System thread time: 262
+Current action: SpinLeft from state: InLeft
+Action thread time: 336
+Current action: Recover from state: Recover
+System thread time: 559
+Current action: SpinRight from state: Search
+Action thread time: 189
+Current action: Recover from state: Recover
+System thread time: 236
+Current action: SpinRight from state: Search
+Action thread time: 326
+Current action: Recover from state: Recover
+System thread time: 161
+Current action: SpinRight from state: Search
+Action thread time: 59
+Current action: Recover from state: Recover
+System thread time: 228
+Current action: SpinRight from state: Search
+Action thread time: 111
+Current action: Recover from state: Recover
+System thread time: 345
+Current action: Forward from state: Centre
+Action thread time: 42
+Current action: Recover from state: Recover
+Current action: SpinLeft from state: InLeft
+System thread time: 511
+Current action: Recover from state: Recover
+Current action: SpinLeft from state: InLeft
+System thread time: 406
+Action thread time: 453
+Current action: Recover from state: Recover
+System thread time: 128
+Current action: SpinLeft from state: InLeft
+Action thread time: 141
+Current action: Recover from state: Recover
+System thread time: 118
+Current action: SpinLeft from state: InLeft
+Action thread time: 72
+Current action: Recover from state: Recover
+System thread time: 318
+Current action: SpinLeft from state: InLeft
+Action thread time: 598
+Current action: Recover from state: Recover
+System thread time: 226
+Current action: Forward from state: Centre
+Action thread time: 125
+Current action: Recover from state: Recover
+System thread time: 218
+Current action: SpinLeft from state: InLeft
+Action thread time: 48
+Current action: Recover from state: Recover
+Current action: Forward from state: Centre
+System thread time: 209
+Action thread time: 38
+Current action: Recover from state: Recover
+System thread time: 134
+Current action: Forward from state: Centre
+Action thread time: 174
+Current action: Recover from state: Recover
+System thread time: 164
+Current action: Forward from state: Centre
+Action thread time: 390
+Current action: Recover from state: Recover
+System thread time: 261
+Current action: Forward from state: Centre
+Action thread time: 464
+Current action: Recover from state: Recover
+System thread time: 542
+Action thread time: 109
+Current action: Forward from state: Centre
+Action thread time: 55
+Current action: Recover from state: Recover
+System thread time: 388
+Current action: Forward from state: Centre
+Action thread time: 22
+Current action: Recover from state: Recover
+System thread time: 657
+Current action: Forward from state: Centre
+Action thread time: 250
+Current action: Recover from state: Recover
+System thread time: 375
+Current action: Forward from state: Centre
+Action thread time: 303
+Current action: Recover from state: Recover
+System thread time: 94
+Current action: SpinRight from state: Search
+Action thread time: 121
+Current action: Recover from state: Recover
+System thread time: 840
+Current action: SpinRight from state: Search
+Action thread time: 420
+Current action: Recover from state: Recover
+System thread time: 535
+Current action: SpinRight from state: Search
+Action thread time: 622
+Current action: Recover from state: Recover
+System thread time: 186
+Current action: SpinRight from state: InRight
+Action thread time: 260
+Current action: Recover from state: Recover
+System thread time: 156
+Current action: SpinRight from state: Search
+Action thread time: 22
+Current action: Recover from state: Recover
+System thread time: 218
+Action thread time: 452
+Current action: Recover from state: Recover
+System thread time: 172
+Current action: SpinRight from state: Search
+Action thread time: 1460
+Current action: Recover from state: Recover
+System thread time: 1024
+Current action: SpinRight from state: Search
+Current action: Recover from state: Recover
+Action thread time: 262
+System thread time: 214
+Current action: Recover from state: Recover
+Action thread time: 701
+System thread time: 758
+Current action: SpinRight from state: Search
+Current action: Recover from state: Recover
+System thread time: 544
+Current action: SpinRight from state: Search
+Action thread time: 358
+Current action: Recover from state: Recover
+System thread time: 414
+Current action: SpinRight from state: Search
+Action thread time: 76
+Current action: Recover from state: Recover
+System thread time: 459
+Current action: SpinRight from state: Search
+Action thread time: 527
+Current action: Recover from state: Recover
+System thread time: 441
+Current action: SpinRight from state: InRight
+Action thread time: 133
+Current action: Recover from state: Recover
+System thread time: 399

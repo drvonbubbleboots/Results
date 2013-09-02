@@ -1,0 +1,200 @@
+31/07/2013 17:06:24: Action thread has started for: 192.168.1.8
+31/07/2013 17:06:24: System thread has started for: 192.168.1.8
+31/07/2013 17:06:26: Current action: 192.168.1.8: Forward from state: TrackCentre
+31/07/2013 17:06:26: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:26: Action thread time: 192.168.1.8: 490 mS
+31/07/2013 17:06:26: System thread time: 192.168.1.8: 476 mS
+31/07/2013 17:06:27: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:27: System thread time: 192.168.1.8: 21 mS
+31/07/2013 17:06:27: Action thread time: 192.168.1.8: 603 mS
+31/07/2013 17:06:28: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:28: System thread time: 192.168.1.8: 20 mS
+31/07/2013 17:06:28: Current action: 192.168.1.8: Forward from state: TrackCentre
+31/07/2013 17:06:29: Action thread time: 192.168.1.8: 185 mS
+31/07/2013 17:06:29: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:29: System thread time: 192.168.1.8: 419 mS
+31/07/2013 17:06:30: Current action: 192.168.1.8: Forward from state: TrackCentre
+31/07/2013 17:06:30: Action thread time: 192.168.1.8: 111 mS
+31/07/2013 17:06:30: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:31: System thread time: 192.168.1.8: 319 mS
+31/07/2013 17:06:31: Current action: 192.168.1.8: Forward from state: TrackCentre
+31/07/2013 17:06:31: Action thread time: 192.168.1.8: 112 mS
+31/07/2013 17:06:32: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:32: System thread time: 192.168.1.8: 26 mS
+31/07/2013 17:06:32: Current action: 192.168.1.8: Forward from state: TrackCentre
+31/07/2013 17:06:32: Action thread time: 192.168.1.8: 202 mS
+31/07/2013 17:06:33: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:33: System thread time: 192.168.1.8: 75 mS
+31/07/2013 17:06:34: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:34: Action thread time: 192.168.1.8: 333 mS
+31/07/2013 17:06:34: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:34: System thread time: 192.168.1.8: 40 mS
+31/07/2013 17:06:35: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:35: Action thread time: 192.168.1.8: 35 mS
+31/07/2013 17:06:35: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:35: System thread time: 192.168.1.8: 20 mS
+31/07/2013 17:06:36: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:36: Current action: 192.168.1.8: SpinLeft from state: InLeft
+31/07/2013 17:06:36: System thread time: 192.168.1.8: 20 mS
+31/07/2013 17:06:36: Action thread time: 192.168.1.8: 23 mS
+31/07/2013 17:06:37: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:37: System thread time: 192.168.1.8: 162 mS
+31/07/2013 17:06:37: Action thread time: 192.168.1.8: 496 mS
+31/07/2013 17:06:38: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:38: System thread time: 192.168.1.8: 169 mS
+31/07/2013 17:06:38: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:38: Action thread time: 192.168.1.8: 74 mS
+31/07/2013 17:06:39: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:39: System thread time: 192.168.1.8: 43 mS
+31/07/2013 17:06:40: Current action: 192.168.1.8: SpinLeft from state: InLeft
+31/07/2013 17:06:40: Action thread time: 192.168.1.8: 98 mS
+31/07/2013 17:06:41: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:06:41: System thread time: 192.168.1.8: 432 mS
+31/07/2013 17:06:41: Current action: 192.168.1.8: SpinLeft from state: InLeft
+31/07/2013 17:06:41: Action thread time: 192.168.1.8: 254 mS
+31/07/2013 17:06:42: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:42: System thread time: 192.168.1.8: 37 mS
+31/07/2013 17:06:42: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:42: Action thread time: 192.168.1.8: 7 mS
+31/07/2013 17:06:43: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:43: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:43: System thread time: 192.168.1.8: 174 mS
+31/07/2013 17:06:44: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:44: Current action: 192.168.1.8: Left from state: InLeft
+31/07/2013 17:06:44: Action thread time: 192.168.1.8: 2 mS
+31/07/2013 17:06:44: System thread time: 192.168.1.8: 129 mS
+31/07/2013 17:06:45: Current action: 192.168.1.8: SpinRight from state: Search
+31/07/2013 17:06:45: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:45: System thread time: 192.168.1.8: 20 mS
+31/07/2013 17:06:46: Action thread time: 192.168.1.8: 604 mS
+31/07/2013 17:06:47: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:47: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:47: Action thread time: 192.168.1.8: 4 mS
+31/07/2013 17:06:47: System thread time: 192.168.1.8: 358 mS
+31/07/2013 17:06:48: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:48: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:48: System thread time: 192.168.1.8: 25 mS
+31/07/2013 17:06:48: Action thread time: 192.168.1.8: 131 mS
+31/07/2013 17:06:49: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:50: System thread time: 192.168.1.8: 227 mS
+31/07/2013 17:06:50: Current action: 192.168.1.8: SpinRight from state: Search
+31/07/2013 17:06:50: Action thread time: 192.168.1.8: 196 mS
+31/07/2013 17:06:51: Current action: 192.168.1.8: SpinRight from state: Search
+31/07/2013 17:06:51: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:51: Action thread time: 192.168.1.8: 402 mS
+31/07/2013 17:06:51: System thread time: 192.168.1.8: 437 mS
+31/07/2013 17:06:52: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:52: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:52: Action thread time: 192.168.1.8: 1 mS
+31/07/2013 17:06:52: System thread time: 192.168.1.8: 365 mS
+31/07/2013 17:06:53: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:54: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:54: System thread time: 192.168.1.8: 212 mS
+31/07/2013 17:06:54: Action thread time: 192.168.1.8: 564 mS
+31/07/2013 17:06:55: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:55: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:55: Action thread time: 192.168.1.8: 130 mS
+31/07/2013 17:06:55: System thread time: 192.168.1.8: 319 mS
+31/07/2013 17:06:56: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:56: System thread time: 192.168.1.8: 212 mS
+31/07/2013 17:06:56: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:56: Action thread time: 192.168.1.8: 424 mS
+31/07/2013 17:06:58: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:58: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:06:58: Action thread time: 192.168.1.8: 315 mS
+31/07/2013 17:06:59: Current action: 192.168.1.8: Left from state: InLeft
+31/07/2013 17:06:59: Action thread time: 192.168.1.8: 62 mS
+31/07/2013 17:06:59: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:06:59: System thread time: 192.168.1.8: 277 mS
+31/07/2013 17:07:00: Current action: 192.168.1.8: Left from state: InLeft
+31/07/2013 17:07:00: Action thread time: 192.168.1.8: 256 mS
+31/07/2013 17:07:00: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:00: System thread time: 192.168.1.8: 21 mS
+31/07/2013 17:07:01: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:01: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:01: System thread time: 192.168.1.8: 48 mS
+31/07/2013 17:07:03: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:03: System thread time: 192.168.1.8: 204 mS
+31/07/2013 17:07:03: Action thread time: 192.168.1.8: 323 mS
+31/07/2013 17:07:04: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:04: System thread time: 192.168.1.8: 39 mS
+31/07/2013 17:07:04: Current action: 192.168.1.8: SpinRight from state: Search
+31/07/2013 17:07:04: Action thread time: 192.168.1.8: 29 mS
+31/07/2013 17:07:06: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:06: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:06: System thread time: 192.168.1.8: 1201 mS
+31/07/2013 17:07:06: Action thread time: 192.168.1.8: 1160 mS
+31/07/2013 17:07:07: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:07: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:07: Action thread time: 192.168.1.8: 6 mS
+31/07/2013 17:07:07: System thread time: 192.168.1.8: 341 mS
+31/07/2013 17:07:08: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:08: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:08: System thread time: 192.168.1.8: 23 mS
+31/07/2013 17:07:09: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:10: System thread time: 192.168.1.8: 150 mS
+31/07/2013 17:07:10: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:10: Action thread time: 192.168.1.8: 433 mS
+31/07/2013 17:07:11: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:11: System thread time: 192.168.1.8: 451 mS
+31/07/2013 17:07:11: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:11: Action thread time: 192.168.1.8: 257 mS
+31/07/2013 17:07:12: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:12: System thread time: 192.168.1.8: 109 mS
+31/07/2013 17:07:12: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:12: Action thread time: 192.168.1.8: 140 mS
+31/07/2013 17:07:13: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:14: Current action: 192.168.1.8: SpinRight from state: Search
+31/07/2013 17:07:14: Action thread time: 192.168.1.8: 15 mS
+31/07/2013 17:07:14: System thread time: 192.168.1.8: 305 mS
+31/07/2013 17:07:15: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 17:07:15: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:15: Action thread time: 192.168.1.8: 24 mS
+31/07/2013 17:07:15: System thread time: 192.168.1.8: 156 mS
+31/07/2013 17:07:16: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:16: Action thread time: 192.168.1.8: 589 mS
+31/07/2013 17:07:16: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:16: System thread time: 192.168.1.8: 621 mS
+31/07/2013 17:07:18: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:18: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:18: System thread time: 192.168.1.8: 392 mS
+31/07/2013 17:07:18: Action thread time: 192.168.1.8: 540 mS
+31/07/2013 17:07:20: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:20: System thread time: 192.168.1.8: 695 mS
+31/07/2013 17:07:20: Action thread time: 192.168.1.8: 703 mS
+31/07/2013 17:07:21: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:21: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:21: System thread time: 192.168.1.8: 137 mS
+31/07/2013 17:07:21: Action thread time: 192.168.1.8: 505 mS
+31/07/2013 17:07:22: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:22: System thread time: 192.168.1.8: 240 mS
+31/07/2013 17:07:23: Current action: 192.168.1.8: SpinRight from state: InRight
+31/07/2013 17:07:23: Action thread time: 192.168.1.8: 258 mS
+31/07/2013 17:07:23: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:23: System thread time: 192.168.1.8: 48 mS
+31/07/2013 17:07:24: Current action: 192.168.1.8: Right from state: InRight
+31/07/2013 17:07:24: Action thread time: 192.168.1.8: 515 mS
+31/07/2013 17:07:25: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:25: System thread time: 192.168.1.8: 632 mS
+31/07/2013 17:07:25: Current action: 192.168.1.8: Forward from state: Centre
+31/07/2013 17:07:26: Action thread time: 192.168.1.8: 284 mS
+31/07/2013 17:07:26: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:26: System thread time: 192.168.1.8: 52 mS
+31/07/2013 17:07:27: Current action: 192.168.1.8: Left from state: InLeft
+31/07/2013 17:07:27: Action thread time: 192.168.1.8: 74 mS
+31/07/2013 17:07:27: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:27: System thread time: 192.168.1.8: 73 mS
+31/07/2013 17:07:28: Current action: 192.168.1.8: SpinRight from state: Search
+31/07/2013 17:07:28: Action thread time: 192.168.1.8: 85 mS
+31/07/2013 17:07:28: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:28: System thread time: 192.168.1.8: 22 mS
+31/07/2013 17:07:29: Current action: 192.168.1.8: Left from state: InLeft
+31/07/2013 17:07:29: Action thread time: 192.168.1.8: 91 mS
+31/07/2013 17:07:29: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:29: System thread time: 192.168.1.8: 23 mS
+31/07/2013 17:07:31: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:31: System thread time: 192.168.1.8: 478 mS
+31/07/2013 17:07:32: Current action: 192.168.1.8: Recover from state: Recover
+31/07/2013 17:07:32: System thread time: 192.168.1.8: 66 mS
+31/07/2013 17:07:32: Current action: 192.168.1.8: SpinRight from state: Search
+31/07/2013 17:07:32: Action thread time: 192.168.1.8: 239 mS

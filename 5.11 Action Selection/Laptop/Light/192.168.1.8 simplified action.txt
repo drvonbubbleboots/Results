@@ -1,0 +1,63 @@
+.Current action: Backward from state: TrackUp
+27
+Current action: Backward from state: TrackUp
+49
+Current action: Backward from state: TrackUp
+105
+Current action: Up from state: TrackUp
+180
+Current action: Up from state: LowAlt
+Current action: Up from state: TrackUp
+22
+Current action: Up from state: LowAlt
+Current action: Up from state: TrackUp
+145
+Current action: Up from state: LowAlt
+Current action: Up from state: TrackUp
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+Current action: Up from state: LowAlt
+2
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+204
+Current action: Up from state: LowAlt
+442
+Current action: Left from state: InLeft
+355
+Current action: Left from state: InLeft
+270
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+23
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+53
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+Current action: Up from state: LowAlt
+78
+Current action: Left from state: InLeft
+Current action: Up from state: LowAlt
+48
+Current action: Left from state: InLeft
+Current action: Up from state: LowAlt
+25
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+60
+213
+Current action: Left from state: InLeft
+120
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+36
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+11
+Current action: Up from state: LowAlt
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+32

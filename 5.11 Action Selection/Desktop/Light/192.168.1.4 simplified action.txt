@@ -1,0 +1,116 @@
+Current action: SpinRight from state: Search
+Current action: SpinRight from state: InRight
+159
+Current action: SpinRight from state: InRight
+Current action: SpinRight from state: InRight
+332
+Current action: SpinRight from state: Search
+175
+Current action: SpinRight from state: Search
+493
+Current action: SpinRight from state: Search
+500
+Current action: Forward from state: Centre
+8
+Current action: Forward from state: Centre
+392
+Current action: SpinRight from state: Search
+208
+Current action: Forward from state: Centre
+264
+674
+Current action: SpinLeft from state: InLeft
+530
+Current action: SpinLeft from state: InLeft
+72
+Current action: Forward from state: Centre
+44
+Current action: Forward from state: Centre
+97
+Current action: SpinRight from state: Search
+200
+Current action: SpinRight from state: Search
+393
+Current action: SpinRight from state: Search
+251
+Current action: SpinRight from state: Search
+234
+Current action: SpinRight from state: Search
+152
+Current action: SpinLeft from state: InLeft
+179
+Current action: SpinLeft from state: InLeft
+310
+Current action: SpinLeft from state: InLeft
+339
+Current action: SpinLeft from state: InLeft
+201
+Current action: SpinLeft from state: InLeft
+317
+Current action: SpinLeft from state: InLeft
+336
+Current action: SpinRight from state: Search
+189
+Current action: SpinRight from state: Search
+326
+Current action: SpinRight from state: Search
+59
+Current action: SpinRight from state: Search
+111
+Current action: Forward from state: Centre
+42
+Current action: SpinLeft from state: InLeft
+Current action: SpinLeft from state: InLeft
+453
+Current action: SpinLeft from state: InLeft
+141
+Current action: SpinLeft from state: InLeft
+72
+Current action: SpinLeft from state: InLeft
+598
+Current action: Forward from state: Centre
+125
+Current action: SpinLeft from state: InLeft
+48
+Current action: Forward from state: Centre
+38
+Current action: Forward from state: Centre
+174
+Current action: Forward from state: Centre
+390
+Current action: Forward from state: Centre
+464
+109
+Current action: Forward from state: Centre
+55
+Current action: Forward from state: Centre
+22
+Current action: Forward from state: Centre
+250
+Current action: Forward from state: Centre
+303
+Current action: SpinRight from state: Search
+121
+Current action: SpinRight from state: Search
+420
+Current action: SpinRight from state: Search
+622
+Current action: SpinRight from state: InRight
+260
+Current action: SpinRight from state: Search
+22
+452
+Current action: SpinRight from state: Search
+1460
+Current action: SpinRight from state: Search
+262
+701
+Current action: SpinRight from state: Search
+Current action: SpinRight from state: Search
+358
+Current action: SpinRight from state: Search
+76
+Current action: SpinRight from state: Search
+527
+Current action: SpinRight from state: InRight
+133

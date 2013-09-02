@@ -1,0 +1,40 @@
+31/07/2013 16:30:22: Action thread has started for: 192.168.1.8
+31/07/2013 16:30:30: System thread has started for: 192.168.1.8
+31/07/2013 16:30:34: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 16:30:40: System thread time: 192.168.1.8: 5946 mS
+31/07/2013 16:30:46: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 16:30:46: System thread time: 192.168.1.8: 4483 mS
+31/07/2013 16:30:46: System thread time: 192.168.1.8: 4504 mS
+31/07/2013 16:30:46: System thread time: 192.168.1.8: 4532 mS
+31/07/2013 16:30:46: System thread time: 192.168.1.8: 4600 mS
+31/07/2013 16:30:46: System thread time: 192.168.1.8: 4621 mS
+31/07/2013 16:30:50: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 16:30:51: Current action: 192.168.1.8: SpinRight from state: InRight
+31/07/2013 16:30:51: Action thread time: 192.168.1.8: 4197 mS
+31/07/2013 16:30:58: Current action: 192.168.1.8: SpinRight from state: InRight
+31/07/2013 16:30:58: Action thread time: 192.168.1.8: 6035 mS
+31/07/2013 16:30:59: System thread time: 192.168.1.8: 10364 mS
+31/07/2013 16:31:33: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 16:31:40: System thread time: 192.168.1.8: 35040 mS
+31/07/2013 16:31:51: Current action: 192.168.1.8: Right from state: InRight
+31/07/2013 16:31:53: Action thread time: 192.168.1.8: 8165 mS
+31/07/2013 16:31:55: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 16:31:55: System thread time: 192.168.1.8: 14311 mS
+31/07/2013 16:31:55: System thread time: 192.168.1.8: 14454 mS
+31/07/2013 16:31:56: System thread time: 192.168.1.8: 14556 mS
+31/07/2013 16:31:56: System thread time: 192.168.1.8: 14672 mS
+31/07/2013 16:31:56: System thread time: 192.168.1.8: 14817 mS
+31/07/2013 16:31:56: System thread time: 192.168.1.8: 14934 mS
+31/07/2013 16:32:05: System thread time: 192.168.1.8: 15193 mS
+31/07/2013 16:32:15: Current action: 192.168.1.8: Right from state: InRight
+31/07/2013 16:32:15: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 16:32:16: System thread time: 192.168.1.8: 8974 mS
+31/07/2013 16:32:16: System thread time: 192.168.1.8: 9068 mS
+31/07/2013 16:32:16: System thread time: 192.168.1.8: 9107 mS
+31/07/2013 16:32:16: System thread time: 192.168.1.8: 9127 mS
+31/07/2013 16:32:20: System thread time: 192.168.1.8: 9179 mS
+31/07/2013 16:32:29: System thread time: 192.168.1.8: 13746 mS
+31/07/2013 16:32:34: Current action: 192.168.1.8: Left from state: InLeft
+31/07/2013 16:32:34: Current action: 192.168.1.8: Up from state: LowAlt
+31/07/2013 16:32:35: System thread time: 192.168.1.8: 3648 mS
+31/07/2013 16:32:35: System thread time: 192.168.1.8: 3880 mS

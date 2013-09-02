@@ -1,0 +1,10 @@
+Current action: SpinRight from state: Search
+12230
+Current action: SpinRight from state: Search
+19516
+Current action: SpinRight from state: Search
+12105
+Current action: SpinRight from state: Search
+11052
+Current action: SpinRight from state: Search
+13469

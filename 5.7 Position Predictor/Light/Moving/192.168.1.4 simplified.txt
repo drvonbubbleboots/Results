@@ -1,0 +1,381 @@
+Rectangle: 246, 283, 57, 57
+Rectangle: 72, 139, 100, 100
+Rectangle: 104, 1, 27, 27
+Rectangle: 104, 1, 27, 27
+Rectangle: 120, 240, 105, 105
+Predicted position: 120, 240, 105,105
+==========================================
+Rectangle: 113, 47, 26, 26
+Predicted position with error: 116, 49, 24,24
+Error: -180, -238
+==========================================
+Predicted position with error: 116, 49, 24,24
+Error: 0, -177
+==========================================
+Predicted position with error: 108, 49, 25,25
+Error: 0, -233
+==========================================
+Rectangle: 118, 146, 26, 26
+Predicted position with error: 126, 151, 25,25
+Error: -187, -288
+==========================================
+Predicted position with error: 126, 151, 25,25
+Error: 0, -125
+==========================================
+Predicted position with error: 125, 148, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 124, 147, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 124, 147, 27,27
+Error: 0, 0
+==========================================
+Predicted position with error: 123, 146, 29,29
+Error: 0, 0
+==========================================
+Predicted position with error: 126, 149, 27,27
+Error: 0, 0
+==========================================
+Predicted position with error: 125, 148, 26,26
+Error: 0, 0
+==========================================
+Rectangle: 151, 69, 25, 25
+Predicted position with error: 151, 69, 25,25
+Error: -163, -81
+==========================================
+Predicted position with error: 151, 68, 24,24
+Error: -93, -230
+==========================================
+Predicted position with error: 151, 68, 24,24
+Error: -93, -231
+==========================================
+Predicted position with error: 151, 68, 24,24
+Error: -93, -231
+==========================================
+Predicted position with error: 153, 66, 24,24
+Error: 0, -85
+==========================================
+Rectangle: 399, 153, 25, 25
+Rectangle: 66, 63, 25, 25
+Rectangle: 228, 151, 27, 27
+Predicted position with error: 228, 151, 27,27
+Error: -241, -164
+==========================================
+Predicted position with error: 228, 151, 27,27
+Error: 0, 0
+==========================================
+Predicted position with error: 228, 151, 27,27
+Error: 0, 0
+==========================================
+Predicted position with error: 228, 151, 27,27
+Error: 0, 0
+==========================================
+Predicted position with error: 228, 151, 27,27
+Error: 0, 0
+==========================================
+Predicted position with error: 228, 151, 27,27
+Error: 0, 0
+==========================================
+Predicted position with error: 229, 153, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 229, 153, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 229, 153, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 229, 153, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 230, 152, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 231, 153, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 231, 153, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 229, 153, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 234, 153, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 236, 152, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 231, 151, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 450, 153, 25,25
+Error: 220, -72
+==========================================
+Predicted position with error: 668, 153, 25,25
+Error: 438, -71
+==========================================
+Predicted position with error: 886, 153, 25,25
+Error: 656, -71
+==========================================
+Predicted position with error: 1104, 153, 25,25
+Error: 874, -71
+==========================================
+Predicted position with error: 1104, 155, 25,25
+Error: 875, 0
+==========================================
+Predicted position with error: 1104, 155, 25,25
+Error: 875, 0
+==========================================
+Predicted position with error: 1103, 153, 26,26
+Error: 875, 0
+==========================================
+Predicted position with error: 1103, 154, 26,26
+Error: 873, 0
+==========================================
+Rectangle: 228, 150, 26, 26
+Predicted position with error: 226, 150, 26,26
+Error: -239, -163
+==========================================
+Predicted position with error: 226, 150, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 226, 150, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 226, 150, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 224, 145, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 220, 145, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 220, 150, 25,25
+Error: 0, 0
+==========================================
+Rectangle: 171, 60, 75, 75
+Predicted position with error: 171, 60, 75,75
+Error: -261, -237
+==========================================
+Rectangle: 167, 157, 25, 25
+Rectangle: 235, 160, 26, 26
+Rectangle: 235, 160, 26, 26
+Rectangle: 205, 157, 25, 25
+Rectangle: 215, 163, 25, 25
+Predicted position with error: 215, 163, 25,25
+Error: -227, -175
+==========================================
+Predicted position with error: 215, 163, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 215, 163, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 220, 287, 24,24
+Error: 0, 126
+==========================================
+Predicted position with error: 223, 287, 24,24
+Error: 0, 127
+==========================================
+Predicted position with error: 224, 287, 25,25
+Error: 0, 124
+==========================================
+Predicted position with error: 227, 287, 25,25
+Error: 0, 124
+==========================================
+Predicted position with error: 227, 287, 25,25
+Error: 0, 124
+==========================================
+Predicted position with error: 229, 287, 25,25
+Error: 0, 124
+==========================================
+Predicted position with error: 233, 164, 24,24
+Error: -245, -176
+==========================================
+Predicted position with error: 235, 164, 24,24
+Error: 0, 0
+==========================================
+Predicted position with error: 235, 164, 24,24
+Error: 0, 0
+==========================================
+Predicted position with error: 235, 164, 24,24
+Error: 0, 0
+==========================================
+Predicted position with error: 235, 291, 24,24
+Error: 0, 126
+==========================================
+Predicted position with error: 233, 220, 25,25
+Error: 0, 55
+==========================================
+Predicted position with error: 315, 165, 24,24
+Error: 81, -98
+==========================================
+Predicted position with error: 315, 165, 25,25
+Error: 80, 0
+==========================================
+Predicted position with error: 315, 165, 25,25
+Error: 80, 0
+==========================================
+Predicted position with error: 315, 166, 24,24
+Error: 80, 0
+==========================================
+Predicted position with error: 315, 165, 24,24
+Error: 78, 0
+==========================================
+Rectangle: 171, 50, 35, 35
+Rectangle: 271, 176, 36, 36
+Rectangle: 157, 260, 35, 35
+Rectangle: 157, 261, 34, 34
+Rectangle: 111, 163, 26, 26
+Rectangle: 139, 163, 25, 25
+Predicted position with error: 139, 163, 25,25
+Error: -151, -175
+==========================================
+Predicted position with error: 139, 163, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 139, 165, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 138, 165, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 138, 165, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 146, 166, 24,24
+Error: 0, 0
+==========================================
+Rectangle: 120, 165, 25, 25
+Predicted position with error: 116, 170, 25,25
+Error: -132, -177
+==========================================
+Predicted position with error: 116, 170, 25,25
+Error: 0, 0
+==========================================
+Predicted position with error: 116, 170, 25,25
+Error: 0, 0
+==========================================
+Rectangle: 285, 171, 25, 25
+Rectangle: 17, 258, 32, 32
+Rectangle: 284, 169, 26, 26
+Rectangle: 284, 169, 26, 26
+Predicted position with error: 293, 179, 26,26
+Error: -297, -182
+==========================================
+Predicted position with error: 293, 179, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 285, 171, 25,25
+Error: 0, 0
+==========================================
+Rectangle: 236, 172, 133, 133
+Rectangle: 191, 287, 45, 45
+Rectangle: 306, 213, 59, 59
+Rectangle: 191, 287, 45, 45
+Rectangle: 228, 169, 27, 27
+Rectangle: 106, 207, 66, 66
+Rectangle: 106, 207, 66, 66
+Predicted position with error: 105, 208, 65,65
+Error: -136, -240
+==========================================
+Rectangle: 224, 168, 26, 26
+Predicted position with error: 224, 168, 26,26
+Error: -237, -181
+==========================================
+Predicted position with error: 220, 169, 26,26
+Error: 0, 0
+==========================================
+Predicted position with error: 219, 168, 28,28
+Error: 0, 0
+==========================================
+Rectangle: 45, 165, 26, 26
+Predicted position with error: 43, 161, 26,26
+Error: 0, -178
+==========================================
+Rectangle: 132, 281, 52, 52
+Predicted position with error: 125, 281, 52,52
+Error: -266, -241
+==========================================
+Rectangle: 192, 186, 133, 133
+Predicted position with error: 192, 185, 133,133
+Error: -258, -252
+==========================================
+Predicted position with error: 192, 185, 133,133
+Error: 0, 0
+==========================================
+Predicted position with error: 192, 185, 133,133
+Error: 0, 0
+==========================================
+Predicted position with error: 192, 185, 133,133
+Error: 0, 0
+==========================================
+Predicted position with error: 192, 185, 133,133
+Error: 0, 0
+==========================================
+Rectangle: 138, 284, 43, 43
+Rectangle: 205, 188, 24, 24
+Predicted position with error: 205, 188, 24,24
+Error: -217, -200
+==========================================
+Rectangle: 203, 52, 24, 24
+Rectangle: 379, 164, 29, 29
+Rectangle: 379, 164, 29, 29
+Rectangle: 252, 30, 134, 134
+Rectangle: 252, 30, 134, 134
+Predicted position with error: 266, 29, 124,124
+Error: -322, -92
+==========================================
+Rectangle: 269, 228, 44, 44
+Rectangle: 269, 228, 44, 44
+Rectangle: 254, 155, 32, 32
+Predicted position with error: 260, 156, 32,32
+Error: -267, -88
+==========================================
+Predicted position with error: 252, 239, 32,32
+Error: 0, 84
+==========================================
+Rectangle: 216, 150, 36, 36
+Rectangle: 155, 153, 33, 33
+Rectangle: 155, 153, 33, 33
+Rectangle: 16, 128, 43, 43
+Rectangle: 7, 23, 45, 45
+Rectangle: 28, 26, 30, 30
+Rectangle: 29, 123, 44, 44
+Rectangle: 28, 26, 30, 30
+Rectangle: 134, 125, 44, 44
+Predicted position with error: 139, 126, 44,44
+Error: 0, -241
+==========================================
+Predicted position with error: 232, 126, 44,44
+Error: 93, -93
+==========================================
+Rectangle: 117, 72, 41, 41
+Rectangle: 120, 86, 56, 56
+Rectangle: 156, 202, 65, 65
+Rectangle: 117, 72, 41, 41
+Rectangle: 195, 45, 64, 64
+Rectangle: 18, 17, 63, 63
+Rectangle: 366, 124, 66, 66
+Rectangle: 354, 96, 70, 70
+Rectangle: 6, 160, 68, 68
+Rectangle: 18, 17, 63, 63
+Predicted position with error: 18, 16, 63,63
+Error: 0, -194
+==========================================
+Rectangle: 251, 113, 64, 64
+Rectangle: 362, 96, 72, 72
+Predicted position with error: 358, 98, 72,72
+Error: -142, -111
+==========================================
+Predicted position with error: 610, 98, 72,72
+Error: 252, 0
+==========================================
+Rectangle: 343, 81, 34, 34
+Rectangle: 53, 286, 35, 35
+Predicted position with error: 53, 286, 35,35
+Error: 0, -303
+==========================================

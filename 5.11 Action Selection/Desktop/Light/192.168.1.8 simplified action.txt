@@ -1,0 +1,115 @@
+Current action: SpinRight from state: Search
+403
+Current action: SpinRight from state: Search
+110
+Current action: SpinRight from state: Search
+510
+Current action: SpinRight from state: Search
+274
+Current action: SpinRight from state: Search
+631
+Current action: Up from state: LowAlt
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: Search
+455
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: Search
+400
+Current action: SpinRight from state: Search
+393
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: Search
+415
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: Search
+510
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: Search
+227
+Current action: SpinRight from state: Search
+308
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: Search
+Current action: Up from state: LowAlt
+217
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: Search
+629
+Current action: Up from state: LowAlt
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: Search
+457
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: Search
+247
+Current action: Up from state: LowAlt
+80
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+247
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+149
+Current action: Forward from state: Centre
+Current action: Up from state: LowAlt
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+460
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+532
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+116
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+2
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+378
+Current action: Forward from state: Centre
+94
+Current action: Left from state: InLeft
+79
+Current action: Left from state: InLeft
+47
+Current action: Left from state: InLeft
+Current action: Up from state: LowAlt
+242
+Current action: Forward from state: Centre
+391
+Current action: Forward from state: Centre
+316
+Current action: Forward from state: Centre
+170
+Current action: Forward from state: Centre
+10
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+432
+Current action: Forward from state: Centre
+119
+Current action: Forward from state: Centre
+135
+Current action: Forward from state: Centre
+84
+Current action: Forward from state: Centre
+613
+Current action: Forward from state: Centre
+88
+Current action: SpinRight from state: Search
+180
+Current action: Forward from state: Centre
+114
+Current action: Forward from state: Centre
+69
+Current action: Left from state: InLeft
+304
+Current action: Forward from state: Centre
+207
+Current action: Forward from state: Centre
+47
+Current action: Forward from state: Centre
+730
+Current action: Forward from state: Centre
+595

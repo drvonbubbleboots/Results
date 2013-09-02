@@ -1,0 +1,15 @@
+31/07/2013 16:50:04: Action thread has started for: 192.168.1.5
+31/07/2013 16:50:07: System thread has started for: 192.168.1.5
+31/07/2013 16:50:10: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:50:13: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:50:19: System thread time: 192.168.1.5: 4425 mS
+31/07/2013 16:50:19: Action thread time: 192.168.1.5: 12822 mS
+31/07/2013 16:50:31: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:50:35: Action thread time: 192.168.1.5: 12411 mS
+31/07/2013 16:50:35: System thread time: 192.168.1.5: 14671 mS
+31/07/2013 16:50:43: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:50:43: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:50:45: Action thread time: 192.168.1.5: 8742 mS
+31/07/2013 16:50:45: System thread time: 192.168.1.5: 8945 mS
+31/07/2013 16:50:50: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:50:56: Action thread time: 192.168.1.5: 7159 mS

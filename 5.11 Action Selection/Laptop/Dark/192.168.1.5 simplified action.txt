@@ -1,0 +1,51 @@
+Current action: SpinRight from state: Search
+119
+Current action: SpinRight from state: Search
+1
+Current action: SpinRight from state: Search
+33
+Current action: SpinRight from state: Search
+19
+Current action: Forward from state: Centre
+51
+144
+Current action: Forward from state: Centre
+167
+Current action: SpinRight from state: InRight
+29
+Current action: Forward from state: Centre
+10
+Current action: Forward from state: Centre
+3
+Current action: Forward from state: Centre
+182
+Current action: SpinRight from state: Search
+22
+Current action: SpinRight from state: Search
+88
+Current action: SpinRight from state: Search
+59
+Current action: SpinRight from state: Search
+76
+Current action: SpinRight from state: Search
+12
+Current action: SpinRight from state: Search
+96
+Current action: SpinRight from state: Search
+1139
+Current action: SpinRight from state: Search
+91
+Current action: SpinRight from state: Search
+106
+Current action: SpinRight from state: InRight
+7
+Current action: Forward from state: Centre
+34
+Current action: Forward from state: Centre
+10
+Current action: Forward from state: Centre
+113
+Current action: Forward from state: Centre
+29
+Current action: Forward from state: Centre
+80

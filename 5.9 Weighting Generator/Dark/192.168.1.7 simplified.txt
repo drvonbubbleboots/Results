@@ -1,0 +1,3101 @@
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg left = +2: 8
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length <= 0 = +2: 10
+RectangleAvg centre = -4: 6
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================
+New weighting started at 10
+WifiPercent > 50 = -2: 8
+BatteryPercent > 50 = -2: 6
+PredictorLength < 3 = +2: 8
+Rectangle length > 0 = -2: 6
+RectangleAvg right = -2: 4
+==========================================

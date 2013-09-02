@@ -1,0 +1,51 @@
+Current action: Backward from state: TrackUp
+257
+Current action: Backward from state: TrackUp
+48
+Current action: Backward from state: TrackUp
+28
+Current action: Backward from state: TrackUp
+62
+Current action: Backward from state: TrackUp
+15
+Current action: Backward from state: TrackUp
+59
+Current action: Backward from state: TrackUp
+433
+Current action: Backward from state: TrackUp
+247
+Current action: Backward from state: TrackUp
+135
+Current action: Backward from state: TrackUp
+85
+Current action: Backward from state: TrackUp
+131
+Current action: Backward from state: TrackUp
+157
+Current action: Backward from state: TrackUp
+88
+Current action: Backward from state: TrackUp
+73
+Current action: Backward from state: TrackUp
+Current action: Backward from state: TrackUp
+31
+Current action: Backward from state: TrackUp
+65
+Current action: Backward from state: TrackUp
+207
+Current action: Backward from state: TrackUp
+46
+Current action: Backward from state: TrackUp
+49
+Current action: Backward from state: TrackUp
+12
+Current action: Backward from state: TrackUp
+41
+Current action: Backward from state: TrackUp
+21
+Current action: Backward from state: TrackUp
+18
+Current action: Backward from state: TrackUp
+32
+Current action: Backward from state: TrackUp
+69

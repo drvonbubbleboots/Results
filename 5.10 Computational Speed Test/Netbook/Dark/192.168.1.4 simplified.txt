@@ -1,0 +1,46 @@
+Action thread has started for: 192.168.1.4
+System thread has started for: 192.168.1.4
+Current action: Recover from state: Recover
+System thread time: 2817
+Current action: Recover from state: Recover
+Action thread time: 8480
+System thread time: 1944
+Current action: Forward from state: Centre
+Action thread time: 1012
+System thread time: 4449
+System thread time: 5386
+System thread time: 8554
+System thread time: 8709
+System thread time: 13970
+System thread time: 13992
+Current action: Recover from state: Recover
+Current action: Forward from state: Centre
+Action thread time: 5518
+System thread time: 7540
+System thread time: 7562
+System thread time: 7583
+System thread time: 7604
+System thread time: 7625
+System thread time: 7646
+Current action: Recover from state: Recover
+Current action: Forward from state: Centre
+System thread time: 2241
+System thread time: 2262
+System thread time: 5809
+System thread time: 6656
+System thread time: 6678
+System thread time: 6699
+System thread time: 6720
+System thread time: 6741
+System thread time: 6762
+System thread time: 6784
+System thread time: 6807
+System thread time: 7122
+Current action: Recover from state: Recover
+Action thread time: 6994
+System thread time: 2146
+System thread time: 2167
+System thread time: 2188
+System thread time: 2209
+System thread time: 2392
+System thread time: 2413

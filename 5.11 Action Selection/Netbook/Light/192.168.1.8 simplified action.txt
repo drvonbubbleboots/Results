@@ -1,0 +1,15 @@
+Current action: Up from state: LowAlt
+Current action: Up from state: LowAlt
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: InRight
+4197
+Current action: SpinRight from state: InRight
+6035
+Current action: Up from state: LowAlt
+Current action: Right from state: InRight
+8165
+Current action: Up from state: LowAlt
+Current action: Right from state: InRight
+Current action: Up from state: LowAlt
+Current action: Left from state: InLeft
+Current action: Up from state: LowAlt

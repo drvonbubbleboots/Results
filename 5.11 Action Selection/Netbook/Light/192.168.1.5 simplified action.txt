@@ -1,0 +1,11 @@
+Current action: Forward from state: Centre
+267
+Current action: Forward from state: Centre
+7059
+Current action: SpinRight from state: InRight
+6906
+Current action: SpinRight from state: InRight
+17141
+Current action: SpinRight from state: InRight
+17293
+21875

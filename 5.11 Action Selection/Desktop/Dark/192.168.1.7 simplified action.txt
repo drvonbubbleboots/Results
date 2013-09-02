@@ -1,0 +1,99 @@
+Current action: Forward from state: Centre
+66
+Current action: Forward from state: Centre
+112
+323
+403
+759
+Current action: Forward from state: Centre
+517
+Current action: Forward from state: Centre
+5
+Current action: Forward from state: Centre
+173
+Current action: Forward from state: Centre
+502
+Current action: Forward from state: Centre
+404
+Current action: Forward from state: Centre
+Current action: Forward from state: Centre
+290
+Current action: SpinRight from state: Search
+16
+Current action: SpinRight from state: Search
+276
+Current action: SpinRight from state: Search
+193
+Current action: Forward from state: Centre
+636
+Current action: SpinLeft from state: InLeft
+131
+430
+Current action: SpinLeft from state: InLeft
+692
+Current action: SpinRight from state: InRight
+194
+Current action: SpinLeft from state: InLeft
+7
+Current action: Forward from state: Centre
+167
+Current action: Forward from state: Centre
+52
+Current action: Forward from state: Centre
+644
+Current action: Forward from state: Centre
+123
+Current action: Forward from state: Centre
+106
+Current action: SpinRight from state: Search
+57
+Current action: Forward from state: Centre
+9
+Current action: Forward from state: Centre
+98
+Current action: Forward from state: Centre
+226
+Current action: SpinRight from state: InRight
+720
+Current action: SpinRight from state: InRight
+24
+Current action: Forward from state: Centre
+43
+Current action: Forward from state: Centre
+115
+Current action: Forward from state: Centre
+734
+Current action: Forward from state: Centre
+393
+Current action: Forward from state: Centre
+376
+Current action: Forward from state: Centre
+317
+Current action: Forward from state: Centre
+104
+Current action: Forward from state: Centre
+849
+Current action: Forward from state: Centre
+79
+Current action: SpinLeft from state: InLeft
+643
+Current action: Forward from state: Centre
+214
+Current action: Forward from state: Centre
+968
+Current action: Forward from state: Centre
+292
+Current action: Forward from state: Centre
+78
+Current action: Forward from state: Centre
+591
+Current action: Forward from state: Centre
+27
+Current action: Forward from state: Centre
+684
+Current action: SpinRight from state: Search
+126
+Current action: Forward from state: Centre
+199
+Current action: Forward from state: Centre
+255

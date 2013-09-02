@@ -1,0 +1,107 @@
+Current action: SpinLeft from state: InLeft
+148
+Current action: SpinLeft from state: InLeft
+207
+Current action: SpinLeft from state: InLeft
+510
+Current action: SpinLeft from state: InLeft
+342
+Current action: SpinRight from state: Search
+119
+Current action: SpinRight from state: Search
+639
+Current action: SpinRight from state: Search
+548
+Current action: SpinRight from state: Search
+605
+Current action: SpinRight from state: Search
+264
+Current action: SpinRight from state: Search
+1013
+Current action: SpinRight from state: Search
+482
+Current action: SpinRight from state: Search
+457
+Current action: SpinLeft from state: InLeft
+81
+729
+Current action: SpinLeft from state: InLeft
+498
+Current action: SpinLeft from state: InLeft
+199
+Current action: SpinLeft from state: InLeft
+363
+Current action: SpinRight from state: Search
+230
+Current action: SpinRight from state: Search
+245
+Current action: SpinRight from state: Search
+589
+Current action: SpinRight from state: Search
+313
+Current action: SpinRight from state: Search
+361
+Current action: SpinRight from state: Search
+529
+Current action: SpinRight from state: Search
+674
+Current action: SpinRight from state: Search
+328
+527
+Current action: SpinRight from state: Search
+724
+Current action: SpinRight from state: Search
+632
+Current action: SpinRight from state: Search
+236
+Current action: SpinRight from state: Search
+9
+Current action: SpinLeft from state: InLeft
+255
+Current action: SpinLeft from state: InLeft
+193
+Current action: SpinLeft from state: InLeft
+504
+Current action: SpinLeft from state: InLeft
+Current action: SpinLeft from state: InLeft
+595
+Current action: SpinRight from state: Search
+49
+Current action: SpinRight from state: Search
+254
+Current action: SpinRight from state: Search
+615
+Current action: SpinRight from state: Search
+350
+Current action: SpinRight from state: Search
+572
+Current action: SpinRight from state: Search
+298
+Current action: SpinRight from state: Search
+128
+Current action: SpinRight from state: Search
+579
+Current action: SpinRight from state: Search
+801
+Current action: SpinRight from state: Search
+426
+Current action: SpinRight from state: Search
+720
+Current action: SpinRight from state: Search
+1054
+Current action: SpinRight from state: Search
+351
+Current action: SpinRight from state: Search
+296
+Current action: SpinRight from state: Search
+171
+Current action: SpinRight from state: Search
+133
+Current action: SpinRight from state: Search
+559
+Current action: SpinRight from state: Search
+Current action: SpinRight from state: Search
+117
+Current action: SpinRight from state: Search
+89
+Action "Recover" could not be selected

@@ -1,0 +1,40 @@
+Action thread has started for: 192.168.1.8
+System thread has started for: 192.168.1.8
+Current action: Up from state: LowAlt
+System thread time: 5946
+Current action: Up from state: LowAlt
+System thread time: 4483
+System thread time: 4504
+System thread time: 4532
+System thread time: 4600
+System thread time: 4621
+Current action: Up from state: LowAlt
+Current action: SpinRight from state: InRight
+Action thread time: 4197
+Current action: SpinRight from state: InRight
+Action thread time: 6035
+System thread time: 10364
+Current action: Up from state: LowAlt
+System thread time: 35040
+Current action: Right from state: InRight
+Action thread time: 8165
+Current action: Up from state: LowAlt
+System thread time: 14311
+System thread time: 14454
+System thread time: 14556
+System thread time: 14672
+System thread time: 14817
+System thread time: 14934
+System thread time: 15193
+Current action: Right from state: InRight
+Current action: Up from state: LowAlt
+System thread time: 8974
+System thread time: 9068
+System thread time: 9107
+System thread time: 9127
+System thread time: 9179
+System thread time: 13746
+Current action: Left from state: InLeft
+Current action: Up from state: LowAlt
+System thread time: 3648
+System thread time: 3880

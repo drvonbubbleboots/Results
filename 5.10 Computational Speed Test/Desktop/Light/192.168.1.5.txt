@@ -1,0 +1,224 @@
+31/07/2013 16:03:54: Action thread has started for: 192.168.1.5
+31/07/2013 16:03:54: System thread has started for: 192.168.1.5
+31/07/2013 16:03:55: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:03:55: System thread time: 192.168.1.5: 114 mS
+31/07/2013 16:03:55: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:03:55: Action thread time: 192.168.1.5: 148 mS
+31/07/2013 16:03:56: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:03:56: System thread time: 192.168.1.5: 221 mS
+31/07/2013 16:03:56: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:03:56: Action thread time: 192.168.1.5: 207 mS
+31/07/2013 16:03:57: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:03:58: System thread time: 192.168.1.5: 440 mS
+31/07/2013 16:03:58: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:03:58: Action thread time: 192.168.1.5: 510 mS
+31/07/2013 16:03:59: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:03:59: System thread time: 192.168.1.5: 220 mS
+31/07/2013 16:03:59: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:03:59: Action thread time: 192.168.1.5: 342 mS
+31/07/2013 16:04:00: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:00: System thread time: 192.168.1.5: 84 mS
+31/07/2013 16:04:00: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:00: Action thread time: 192.168.1.5: 119 mS
+31/07/2013 16:04:01: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:02: System thread time: 192.168.1.5: 452 mS
+31/07/2013 16:04:02: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:02: Action thread time: 192.168.1.5: 639 mS
+31/07/2013 16:04:03: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:03: System thread time: 192.168.1.5: 411 mS
+31/07/2013 16:04:04: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:04: Action thread time: 192.168.1.5: 548 mS
+31/07/2013 16:04:04: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:04: System thread time: 192.168.1.5: 169 mS
+31/07/2013 16:04:05: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:05: Action thread time: 192.168.1.5: 605 mS
+31/07/2013 16:04:06: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:06: System thread time: 192.168.1.5: 546 mS
+31/07/2013 16:04:07: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:07: Action thread time: 192.168.1.5: 264 mS
+31/07/2013 16:04:07: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:08: System thread time: 192.168.1.5: 924 mS
+31/07/2013 16:04:09: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:09: Action thread time: 192.168.1.5: 1013 mS
+31/07/2013 16:04:09: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:09: System thread time: 192.168.1.5: 584 mS
+31/07/2013 16:04:10: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:11: Action thread time: 192.168.1.5: 482 mS
+31/07/2013 16:04:11: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:11: System thread time: 192.168.1.5: 523 mS
+31/07/2013 16:04:12: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:12: Action thread time: 192.168.1.5: 457 mS
+31/07/2013 16:04:12: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:13: System thread time: 192.168.1.5: 409 mS
+31/07/2013 16:04:13: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:04:13: Action thread time: 192.168.1.5: 81 mS
+31/07/2013 16:04:14: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:14: System thread time: 192.168.1.5: 471 mS
+31/07/2013 16:04:15: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:15: System thread time: 192.168.1.5: 425 mS
+31/07/2013 16:04:16: Action thread time: 192.168.1.5: 729 mS
+31/07/2013 16:04:17: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:17: System thread time: 192.168.1.5: 367 mS
+31/07/2013 16:04:17: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:04:17: Action thread time: 192.168.1.5: 498 mS
+31/07/2013 16:04:18: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:18: System thread time: 192.168.1.5: 355 mS
+31/07/2013 16:04:19: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:04:19: Action thread time: 192.168.1.5: 199 mS
+31/07/2013 16:04:20: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:20: System thread time: 192.168.1.5: 347 mS
+31/07/2013 16:04:20: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:04:20: Action thread time: 192.168.1.5: 363 mS
+31/07/2013 16:04:21: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:21: System thread time: 192.168.1.5: 322 mS
+31/07/2013 16:04:21: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:22: Action thread time: 192.168.1.5: 230 mS
+31/07/2013 16:04:22: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:22: System thread time: 192.168.1.5: 262 mS
+31/07/2013 16:04:23: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:23: Action thread time: 192.168.1.5: 245 mS
+31/07/2013 16:04:23: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:24: System thread time: 192.168.1.5: 292 mS
+31/07/2013 16:04:24: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:25: Action thread time: 192.168.1.5: 589 mS
+31/07/2013 16:04:25: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:25: System thread time: 192.168.1.5: 440 mS
+31/07/2013 16:04:26: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:26: Action thread time: 192.168.1.5: 313 mS
+31/07/2013 16:04:26: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:26: System thread time: 192.168.1.5: 193 mS
+31/07/2013 16:04:27: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:27: Action thread time: 192.168.1.5: 361 mS
+31/07/2013 16:04:28: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:28: System thread time: 192.168.1.5: 209 mS
+31/07/2013 16:04:29: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:29: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:29: Action thread time: 192.168.1.5: 529 mS
+31/07/2013 16:04:29: System thread time: 192.168.1.5: 353 mS
+31/07/2013 16:04:30: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:31: System thread time: 192.168.1.5: 619 mS
+31/07/2013 16:04:31: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:31: Action thread time: 192.168.1.5: 674 mS
+31/07/2013 16:04:32: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:32: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:32: System thread time: 192.168.1.5: 431 mS
+31/07/2013 16:04:32: Action thread time: 192.168.1.5: 328 mS
+31/07/2013 16:04:33: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:34: System thread time: 192.168.1.5: 419 mS
+31/07/2013 16:04:34: Action thread time: 192.168.1.5: 527 mS
+31/07/2013 16:04:35: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:35: System thread time: 192.168.1.5: 377 mS
+31/07/2013 16:04:36: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:36: Action thread time: 192.168.1.5: 724 mS
+31/07/2013 16:04:36: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:37: System thread time: 192.168.1.5: 136 mS
+31/07/2013 16:04:37: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:37: Action thread time: 192.168.1.5: 632 mS
+31/07/2013 16:04:38: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:38: System thread time: 192.168.1.5: 196 mS
+31/07/2013 16:04:39: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:39: Action thread time: 192.168.1.5: 236 mS
+31/07/2013 16:04:39: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:39: System thread time: 192.168.1.5: 246 mS
+31/07/2013 16:04:40: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:40: Action thread time: 192.168.1.5: 9 mS
+31/07/2013 16:04:40: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:40: System thread time: 192.168.1.5: 136 mS
+31/07/2013 16:04:41: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:04:41: Action thread time: 192.168.1.5: 255 mS
+31/07/2013 16:04:41: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:41: System thread time: 192.168.1.5: 192 mS
+31/07/2013 16:04:42: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:04:42: Action thread time: 192.168.1.5: 193 mS
+31/07/2013 16:04:42: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:43: System thread time: 192.168.1.5: 133 mS
+31/07/2013 16:04:44: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:44: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:04:44: Action thread time: 192.168.1.5: 504 mS
+31/07/2013 16:04:44: System thread time: 192.168.1.5: 426 mS
+31/07/2013 16:04:45: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:45: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:04:45: System thread time: 192.168.1.5: 231 mS
+31/07/2013 16:04:47: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:47: System thread time: 192.168.1.5: 269 mS
+31/07/2013 16:04:47: Current action: 192.168.1.5: SpinLeft from state: InLeft
+31/07/2013 16:04:47: Action thread time: 192.168.1.5: 595 mS
+31/07/2013 16:04:48: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:48: System thread time: 192.168.1.5: 86 mS
+31/07/2013 16:04:48: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:48: Action thread time: 192.168.1.5: 49 mS
+31/07/2013 16:04:49: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:49: System thread time: 192.168.1.5: 575 mS
+31/07/2013 16:04:50: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:50: Action thread time: 192.168.1.5: 254 mS
+31/07/2013 16:04:51: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:51: System thread time: 192.168.1.5: 244 mS
+31/07/2013 16:04:51: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:51: Action thread time: 192.168.1.5: 615 mS
+31/07/2013 16:04:52: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:52: System thread time: 192.168.1.5: 190 mS
+31/07/2013 16:04:53: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:53: Action thread time: 192.168.1.5: 350 mS
+31/07/2013 16:04:53: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:53: System thread time: 192.168.1.5: 415 mS
+31/07/2013 16:04:54: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:54: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:55: Action thread time: 192.168.1.5: 572 mS
+31/07/2013 16:04:55: System thread time: 192.168.1.5: 307 mS
+31/07/2013 16:04:56: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:56: Action thread time: 192.168.1.5: 298 mS
+31/07/2013 16:04:56: System thread time: 192.168.1.5: 787 mS
+31/07/2013 16:04:57: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:57: Action thread time: 192.168.1.5: 128 mS
+31/07/2013 16:04:58: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:04:58: System thread time: 192.168.1.5: 451 mS
+31/07/2013 16:04:59: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:04:59: Action thread time: 192.168.1.5: 579 mS
+31/07/2013 16:04:59: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:00: System thread time: 192.168.1.5: 442 mS
+31/07/2013 16:05:01: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:01: Action thread time: 192.168.1.5: 801 mS
+31/07/2013 16:05:01: System thread time: 192.168.1.5: 728 mS
+31/07/2013 16:05:02: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:02: Action thread time: 192.168.1.5: 426 mS
+31/07/2013 16:05:02: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:03: System thread time: 192.168.1.5: 350 mS
+31/07/2013 16:05:04: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:04: Action thread time: 192.168.1.5: 720 mS
+31/07/2013 16:05:04: System thread time: 192.168.1.5: 643 mS
+31/07/2013 16:05:06: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:06: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:06: Action thread time: 192.168.1.5: 1054 mS
+31/07/2013 16:05:06: System thread time: 192.168.1.5: 943 mS
+31/07/2013 16:05:08: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:08: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:08: Action thread time: 192.168.1.5: 351 mS
+31/07/2013 16:05:08: System thread time: 192.168.1.5: 334 mS
+31/07/2013 16:05:09: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:09: Action thread time: 192.168.1.5: 296 mS
+31/07/2013 16:05:09: System thread time: 192.168.1.5: 445 mS
+31/07/2013 16:05:11: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:11: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:11: Action thread time: 192.168.1.5: 171 mS
+31/07/2013 16:05:11: System thread time: 192.168.1.5: 192 mS
+31/07/2013 16:05:12: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:12: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:12: Action thread time: 192.168.1.5: 133 mS
+31/07/2013 16:05:12: System thread time: 192.168.1.5: 185 mS
+31/07/2013 16:05:13: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:13: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:13: System thread time: 192.168.1.5: 367 mS
+31/07/2013 16:05:13: Action thread time: 192.168.1.5: 559 mS
+31/07/2013 16:05:14: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:14: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:15: System thread time: 192.168.1.5: 216 mS
+31/07/2013 16:05:16: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:16: System thread time: 192.168.1.5: 297 mS
+31/07/2013 16:05:16: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:16: Action thread time: 192.168.1.5: 117 mS
+31/07/2013 16:05:17: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:17: System thread time: 192.168.1.5: 308 mS
+31/07/2013 16:05:17: Current action: 192.168.1.5: SpinRight from state: Search
+31/07/2013 16:05:17: Action thread time: 192.168.1.5: 89 mS
+31/07/2013 16:05:18: Current action: 192.168.1.5: Recover from state: Recover
+31/07/2013 16:05:19: Action "192.168.1.5: Recover" could not be selected

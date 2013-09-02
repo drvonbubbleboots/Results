@@ -1,0 +1,7 @@
+8480
+Current action: Forward from state: Centre
+1012
+Current action: Forward from state: Centre
+5518
+Current action: Forward from state: Centre
+6994

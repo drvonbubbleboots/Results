@@ -1,0 +1,19 @@
+Current action: Forward from state: Centre
+1409
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+9010
+Current action: Forward from state: Centre
+Current action: Up from state: LowAlt
+Current action: Forward from state: Centre
+Current action: Up from state: LowAlt
+4294
+Current action: Up from state: LowAlt
+Current action: Left from state: TrackLeft
+Current action: Up from state: LowAlt
+Current action: Up from state: LowAlt
+Current action: Left from state: TrackLeft
+10299
+Current action: Up from state: LowAlt
+Current action: Left from state: TrackLeft
+8118

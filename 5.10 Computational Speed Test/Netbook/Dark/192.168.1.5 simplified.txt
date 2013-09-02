@@ -1,0 +1,15 @@
+Action thread has started for: 192.168.1.5
+System thread has started for: 192.168.1.5
+Current action: SpinRight from state: Search
+Current action: Recover from state: Recover
+System thread time: 4425
+Action thread time: 12822
+Current action: SpinRight from state: Search
+Action thread time: 12411
+System thread time: 14671
+Current action: Recover from state: Recover
+Current action: SpinRight from state: Search
+Action thread time: 8742
+System thread time: 8945
+Current action: SpinRight from state: Search
+Action thread time: 7159
